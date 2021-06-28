@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Test
+        run: echo "github_ref - $GITHUB_REF, github_event_ref - $GITHUB_EVENT_REF"
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set up Ruby 2.6

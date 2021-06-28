@@ -38,16 +38,42 @@ User personas are descriptions of typical users which represent people who’ll 
 
 We identified four main user personas - below is what they might say and what they use the website for:
 
-User persona      |What they might say                                             |What they use the website for
-:--|:--|:--
-Concerned Citizen|"Tell me what the goals are and what is being done about them"|They use the website out of personal interest
-Connected Influencer|"Give me a tool that will support my ambitions and give me a louder voice"|They use the website as it adds credibility to what they are doing
-Fact Gatherer|"I just need to quickly see what progress is being made and check the facts"|They use the website because they need to check something
-Involved Analyst|"I just want the data so I can do my own thing with it"|They use the website because they need to analyse the data
-
-The different user personas need different types of data on a scale from visual data to raw data in the following order: concerned citizen, connected influencer, fact gatherer, involved analyst.
-
-
+<table class="table">
+  <colgroup>
+    <col class="ten" />
+    <col class="fourtyfive" />
+    <col class="fourtyfive" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>User persona</th>
+      <th>What they might say </th>
+      <th>What they use the website for</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Concerned Citizen</td>
+      <td>"Tell me what the goals are and what is being done about them"</td>
+      <td>They use the website out of personal interest</td>
+    </tr>
+    <tr>
+      <td>Connected Influencer</td>
+      <td>"Give me a tool that will support my ambitions and give me a louder voice"</td>
+      <td>They use the website as it adds credibility to what they are doing</td>
+    </tr>
+    <tr>
+      <td>Fact Gatherer</td>
+      <td>"I just need to quickly see what progress is being made and check the facts"</td>
+      <td>They use the website because they need to check something</td>
+    </tr>
+    <tr>
+      <td>Involved Analyst</td>
+      <td>"I just want the data so I can do my own thing with it"</td>
+      <td>They use the website because they need to analyse the data</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Concerned citizen
 ### Who they are

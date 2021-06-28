@@ -75,6 +75,8 @@ We identified four main user personas - below is what they might say and what th
   </tbody>
 </table>
 
+The different user personas need different types of data on a scale from visual data to raw data in the following order: concerned citizen, connected influencer, fact gatherer, involved analyst.
+
 ## Concerned citizen
 ### Who they are
 Someone who has an personal interest in SDGs or related topics but may also have a professional interest.

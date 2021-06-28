@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test
-        run: echo "github_ref - $GITHUB_REF, github_event_ref - $GITHUB_EVENT_REF"
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set up Ruby 2.6
@@ -31,7 +29,7 @@ jobs:
           updateFile: 'true'
       - name: Update the remote_data_prefix
         uses: fjogeleit/yaml-update-action@master
-        if: startsWith(github.event.ref, 'feature-site-') == false
+        if: startsWith(${{ env.GITHUB_REF_SLUG }}, 'feature-site-') == false
         with:
           # Update this if your 'remote_data_prefix' setting is in a different file.
           valueFile: '_config.yml'

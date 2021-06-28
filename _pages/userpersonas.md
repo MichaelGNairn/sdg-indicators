@@ -36,85 +36,16 @@ Alternatively, if you have specific feedback about this website, please complete
 
 User personas are descriptions of typical users which represent people who’ll use your service. 
 
-We identified four main user personas:
+We identified four main user personas - below is what they might say and what they use the website for:
 
-<style>
+User persona      |What they might say                                             |What they use the website for
+:--|:--|:--
+Concerned Citizen|"Tell me what the goals are and what is being done about them"|They use the website out of personal interest
+Connected Influencer|"Give me a tool that will support my ambitions and give me a louder voice"|They use the website as it adds credibility to what they are doing
+Fact Gatherer|"I just need to quickly see what progress is being made and check the facts"|They use the website because they need to check something
+Involved Analyst|"I just want the data so I can do my own thing with it"|They use the website because they need to analyse the data
 
-span {
-    position: absolute;
-    margin: 4px 4px;
-    left: 0px;
-    bottom: 0px;
-    padding: 5px
-}
-
-
-* {
-  box-sizing: border-box;
-}
-
-/* Create three equal columns that floats next to each other */
-.up-column {
-  min-height: 270px;
-  padding: 10px;
-  border:1px solid;
-  text-align: center;
-  margin: 5px
-}
-
-.up-column h3 {
-  font-size: 16px;
-  font-weight: 700;
-  margin-top: 5px;
-}
-
-.up-image {
-  width: 100%;
-}
-
-.up-text {
-  display: none;
-}
-
-@media only screen and (max-width: 768px) {
-  .up-column {
-  min-height: 320px;
-  }
-  .up-image {
-    display: none;
-  }
-  .up-text {
-    display: inline;
-  }
-}
-}
-
-
-</style>
-
-<html>
-
-<div>
-<ol style="list-style-type:none;" class="row no-gutters">
-  <li class="col-xs-6 col-sm-3 col-md-3">
-      <div class="up-column"><h3>Concerned Citizen</h3><p>“Tell me what the goals are and what is being done about them”</p><span>They use the website out of personal interest</span></div>
-  </li>
-  <li class="col-xs-6 col-sm-3 col-md-3">
-      <div class="up-column"><h3>Connected Influencer</h3><p>“Give me a tool that will support my ambitions and give me a louder voice”</p><span>They use the website as it adds credibility to what they are doing</span></div>
-  </li>
-  <li class="col-xs-6 col-sm-3 col-md-3">
-      <div class="up-column"><h3>Fact Gatherer</h3><p>“I just need to quickly see what progress is being made and check the facts”</p><span>They use the website because they need to check something</span></div>
-  </li>
-  <li class="col-xs-6 col-sm-3 col-md-3">
-      <div class="up-column"><h3>Involved Analyst</h3><p>“I just want the data so I can do my own thing with it”</p><span>They use the website because they need to analyse the data</span></div>
-  </li>
-</ol>
-
-<img class="row no-gutters up-image" src="{{ site.baseurl }}/assets/img/userpersonas-arrow.svg" alt="Diagram of user personas on scale of data type needed from visual data to raw data in the following order: concerned citizen, connected influencer, fact gatherer, involved analyst.">
-    <p class="up-text">The different user personas need different types of data on a scale from visual data to raw data in the following order: concerned citizen, connected influencer, fact gatherer, involved analyst.</p>
-
-</div>
-</html>
+The different user personas need different types of data on a scale from visual data to raw data in the following order: concerned citizen, connected influencer, fact gatherer, involved analyst.
 
 
 

@@ -1,12 +1,8 @@
 name: Test Push or Pull Request
 
-on:
-  pull_request:
-    types: [ assigned, opened, synchronize, reopened ]
-  push:
-    branches-ignore: 
-      - develop
-      - master
+on: [pull_request]
+
+      
   
 
 jobs:

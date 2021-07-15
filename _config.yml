@@ -13,7 +13,7 @@ url: ""
 data_dir: data
 environment: staging
 
-remote_data_prefix: "http://uk-sdg-feature-branches.s3-website.eu-west-2.amazonaws.com/feature-15-1-2-site"
+remote_data_prefix: "http://uk-sdg-feature-branches.s3-website.eu-west-2.amazonaws.com/feature-15-1-2-data"
 
 create_indicators:
   layout: indicator

@@ -4,7 +4,7 @@ opensdg.annotationPresets = {
         borderColor: '#949494',
         type: 'line',
         borderDash: [10, 5],
-        borderWidth: 1,
+        borderWidth: 2,
         label: {
             backgroundColor: 'white',
             fontColor: 'black',
@@ -43,6 +43,7 @@ opensdg.annotationPresets = {
     },
     target_line: {
         mode: 'horizontal',
+        borderDash: [2, 2],
         label: {
             position: 'right',
             content: translations.indicator.annotation_2030_target,
@@ -50,8 +51,8 @@ opensdg.annotationPresets = {
     },
     series_break: {
         mode: 'vertical',
-        borderColor: '#949494',
-        borderWidth: 1,
+        borderColor: '#757575',
+        borderDash: [15, 10],
         label: {
             position: 'top',
             content: translations.indicator.annotation_series_break,

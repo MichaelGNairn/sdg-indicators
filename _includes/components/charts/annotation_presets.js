@@ -4,7 +4,7 @@ opensdg.annotationPresets = {
         borderColor: '#949494',
         type: 'line',
         borderDash: [15, 10],
-        borderWidth: 2,
+        borderWidth: 1,
         label: {
             backgroundColor: 'white',
             fontColor: 'black',

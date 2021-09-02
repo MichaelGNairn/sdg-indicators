@@ -3,7 +3,7 @@ opensdg.annotationPresets = {
         // This "common" preset is applied to all annotations automatically.
         borderColor: '#949494',
         type: 'line',
-        borderDash: [10, 5],
+        borderDash: [15, 10],
         borderWidth: 2,
         label: {
             backgroundColor: 'white',
@@ -52,7 +52,6 @@ opensdg.annotationPresets = {
     series_break: {
         mode: 'vertical',
         borderColor: '#757575',
-        borderDash: [15, 10],
         label: {
             position: 'top',
             content: translations.indicator.annotation_series_break,

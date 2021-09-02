@@ -50,6 +50,8 @@ opensdg.annotationPresets = {
     },
     series_break: {
         mode: 'vertical',
+        borderColor: '#949494',
+        borderWidth: 1,
         label: {
             position: 'top',
             content: translations.indicator.annotation_series_break,

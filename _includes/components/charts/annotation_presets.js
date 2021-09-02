@@ -43,6 +43,7 @@ opensdg.annotationPresets = {
     },
     target_line: {
         mode: 'horizontal',
+        borderColor: '#757575',
         label: {
             position: 'right',
             content: translations.indicator.annotation_2030_target,
@@ -50,7 +51,6 @@ opensdg.annotationPresets = {
     },
     series_break: {
         mode: 'vertical',
-        borderColor: '#ff0000',
         borderDash: [2, 2],
         label: {
             position: 'top',

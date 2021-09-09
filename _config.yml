@@ -42,6 +42,7 @@ twitter: 'ONS'
 
 hide_single_series: true
 hide_single_unit: true
+x_axis_label: Year
 
 disclaimer:
   phase: BETA

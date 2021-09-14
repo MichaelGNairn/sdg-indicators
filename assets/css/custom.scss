@@ -13,9 +13,6 @@
   p {
      white-space: normal;
       }
-  a {
-     color: #1d70b8;
-      }
 }
 
 @media screen and (min-width: 500px){
@@ -108,10 +105,6 @@ body.contrast-high {
   }
   .goal-indicators div span.status.complete {
     color: black !important;
-  }
-      
-  #main-content .alert a {
-     color: #FFDD00;
   }
 }
 

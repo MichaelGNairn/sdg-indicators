@@ -98,12 +98,20 @@
   margin-left: 30px;
 }
 
+.fa-exclamation-circle {
+  vertical-align: top;
+}
+
 body.contrast-high {
   .fa-exclamation-circle {
     color: white;
   }
   .goal-indicators div span.status.complete {
     color: black !important;
-   }
+  }
+      
+  #main-content .alert a {
+     color: #FFDD00;
+  }
 }
 

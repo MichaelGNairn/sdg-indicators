@@ -13,6 +13,8 @@ url: ""
 data_dir: data
 environment: staging
 
+favicons: favicon.io
+
 remote_data_prefix: "https://ONSdigital.github.io/sdg-data"
 
 create_indicators:

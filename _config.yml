@@ -13,7 +13,7 @@ url: ""
 data_dir: data
 environment: staging
 
-remote_data_prefix: "https://ONSdigital.github.io/sdg-data"
+remote_data_prefix: "http://uk-sdg-feature-branches.s3-website.eu-west-2.amazonaws.com/feature-reporting-progress-mvp-data/"
 
 create_indicators:
   layout: indicator
@@ -234,7 +234,7 @@ reporting_status:
       hide_on_goal_pages: false
     - value: complete
       label: status.reported_online
-      hide_on_goal_pages: false
+      hide_on_goal_pages: true
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false

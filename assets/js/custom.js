@@ -12,4 +12,8 @@ opensdg.dataRounding = function(value) {
   }
 };
 
-$("[data-field='Series']").trigger( "click" )
+
+document.addEventListener("DOMContentLoaded", function() {
+  $("[data-field='Series']").trigger("click");
+});
+

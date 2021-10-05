@@ -12,6 +12,6 @@ opensdg.dataRounding = function(value) {
   }
 };
 
-$(document).ready(function() {
-    $("accessBtn").simulate('mousedown')
-});
+if ( $('.variable-selector').attr('data-field') == 'Series' ) {
+  $('.variable-selector').trigger( "click" );
+}

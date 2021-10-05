@@ -12,6 +12,4 @@ opensdg.dataRounding = function(value) {
   }
 };
 
-if ( $('.variable-selector').attr('data-field') == 'Series' ) {
-  $('.variable-selector').trigger( "click" );
-}
+$("[data-field='Series']").trigger( "click" )

@@ -11,3 +11,7 @@ opensdg.dataRounding = function(value) {
     return Number(value.toPrecision(3))
   }
 };
+
+$(document).ready(function() {
+    $("accessBtn").simulate('mousedown')
+});

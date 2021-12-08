@@ -186,7 +186,7 @@ map_layers:
     staticBorders: true
     subfolder: country
     label: Country
-  - min_zoom: 6
+  - min_zoom: 7
     max_zoom: 8
     staticBorders: true
     subfolder: regions

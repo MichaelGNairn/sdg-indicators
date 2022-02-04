@@ -256,3 +256,5 @@ cookie_consent_form:
   enabled: true
 
 hotjar: false
+
+version_2_preview: false

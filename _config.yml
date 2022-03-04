@@ -219,6 +219,25 @@ reporting_status:
 
       For details about all available disaggregations and how each indicator is disaggregated, see the [UK disaggregation report](https://onsdigital.github.io/sdg-data/disaggregations.html).
 
+progress_status:
+  status_heading: status.progress_status
+  status_types:
+    - value: not_available
+      label: status.progress_not_available
+      image: assets/img/progress/not-available.png
+      alt: status.progress_not_available
+    - value: challenges_remain
+      label: status.progress_challenges_remain
+      image: assets/img/progress/challenges-remain.png
+      alt: status.progress_challenges_remain
+    - value: approaching_target
+      label: status.progress_approaching_target
+      image: assets/img/progress/approaching-target.png
+      alt: status.progress_approaching_target
+    - value: target_achieved
+      label: status.progress_target_achieved
+      image: assets/img/progress/target-achieved.png
+      alt: status.progress_target_achieved
       Note: These percentages have been rounded. As a result, adding them together may not equal exactly 100%.
 
 

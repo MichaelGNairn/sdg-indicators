@@ -35,16 +35,15 @@ create_pages:
     - folder: /goals
       layout: goals
       title: UK data for the Sustainable Development Goals
-    - filename: index.html
-      folder: /reporting-status
-      layout: reportingstatus-bootstrap5
-      title: Reporting status
+    - folder: /reporting-status
+      layout: reportingstatus
+      title: Reporting Status
     - filename: indicators.json
       folder: /
       layout: indicator-json
     - folder: /search
       layout: search
-      title: Search results
+      title: Search result
 
 # Social media accounts.
 twitter: 'ONS'

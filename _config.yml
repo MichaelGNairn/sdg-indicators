@@ -18,6 +18,8 @@ environment: staging
 
 remote_data_prefix: "https://ONSdigital.github.io/sdg-data"
 
+chartjs_3: true
+
 ignored_disaggregations:
   - Age (default)
   - Activity (default)

@@ -115,7 +115,7 @@ accessible_charts: true
 contrast_type: long
 
 # Use radio buttons for Series instead of dropdown
-series_toggle: true
+series_toggle: false
 
 #Header
 header:

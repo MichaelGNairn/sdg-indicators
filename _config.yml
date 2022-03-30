@@ -71,7 +71,7 @@ markdown: kramdown
 # Date format
 date_formats:
   standard:
-    en: "%d %B %Y"
+    en: "%B %Y %d"
 
 # Travis Support
 exclude: [vendor, scripts, remotedata, .sass-cache, Makefile, node_modules]

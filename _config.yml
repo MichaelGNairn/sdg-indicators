@@ -51,8 +51,8 @@ create_pages:
 twitter: 'ONS'
 
 disclaimer:
-  phase: BETA
-  message: This website is in development – your <a href="https://www.surveymonkey.co.uk/r/SDGfeedback">feedback</a> will help us to improve it
+  phase: GAMMA
+  message: This website is A WORK IN PROGRESS – your <a href="https://www.surveymonkey.co.uk/r/SDGfeedback">feedback</a> will help us to improve it
 
 # Email accounts
 email_contacts:

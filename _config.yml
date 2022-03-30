@@ -79,8 +79,8 @@ exclude: [vendor, scripts, remotedata, .sass-cache, Makefile, node_modules]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: UK
-  adjective: UK
+  name: France
+  adjective: French
 
 # Pages
 collections:

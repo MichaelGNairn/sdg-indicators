@@ -263,3 +263,6 @@ cookie_consent_form:
   enabled: true
 
 hotjar: false
+
+bootstrap_5: true
+chartjs_3: true

@@ -167,8 +167,7 @@ search_index_extra_fields:
   - graph_title
   - data_keywords
 
-# Graphs
-graph_color_set: sdg
+
 
 hide_single_series: false
 hide_single_unit: false

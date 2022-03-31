@@ -256,7 +256,7 @@ frontpage_cards:
       [UN Department of Economic and Social Affairs](https://sdgs.un.org/)
 
 cookie_consent_form:
-  enabled: true
+  enabled: false
 
 hotjar: false
 

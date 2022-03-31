@@ -279,3 +279,7 @@ breadcrumbs:
       path: /
     - label: general.goals
       path: goals/
+
+decimal_separator: '!'
+
+

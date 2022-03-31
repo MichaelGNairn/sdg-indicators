@@ -160,9 +160,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
 
-# Apply any custom Javascript.
-custom_js:
-  - /assets/js/custom.js
+
 
 search_index_extra_fields:
   - indicator_available

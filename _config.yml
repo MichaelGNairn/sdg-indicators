@@ -263,3 +263,20 @@ cookie_consent_form:
   enabled: true
 
 hotjar: false
+
+breadcrumbs:
+  post:
+    - label: general.home
+      path: /
+    - label: menu.updates
+      path: news/
+  goal:
+    - label: general.home
+      path: /
+    - label: general.goals
+      path: goals/
+  indicator:
+    - label: general.home
+      path: /
+    - label: general.goals
+      path: goals/

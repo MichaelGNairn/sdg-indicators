@@ -288,3 +288,6 @@ graph_color_headline: #66005c
 logos:
   - src: assets/img/luna.png
     alt: My other alt text
+    
+hide_empty_metadata: true
+    

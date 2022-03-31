@@ -170,8 +170,8 @@ search_index_extra_fields:
 # Graphs
 graph_color_set: sdg
 
-hide_single_series: true
-hide_single_unit: true
+hide_single_series: false
+hide_single_unit: false
 
 favicons: favicon.io
 

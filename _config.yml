@@ -173,7 +173,7 @@ graph_color_set: sdg
 hide_single_series: false
 hide_single_unit: false
 
-favicons: favicon.io
+favicons: legacy
 
 # Mapping
 map_options:

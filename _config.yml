@@ -282,3 +282,7 @@ breadcrumbs:
       path: goals/
 
 frontpage_heading: Australian data for Sustainable Development Goal indicators
+frontpage_instructions: Click on each goal for Australian statistics for Sustainable Development Goal global indicators.
+frontpage_introduction_banner:
+    title: title goes here
+    description: description goes her

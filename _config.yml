@@ -291,3 +291,5 @@ logos:
     
 hide_empty_metadata: true
     
+x_axis_label: true
+

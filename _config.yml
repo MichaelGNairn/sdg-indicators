@@ -168,7 +168,7 @@ search_index_extra_fields:
   - data_keywords
 
 # Graphs
-graph_color_set: accessible
+graph_color_set: sdg
 
 hide_single_series: true
 hide_single_unit: true

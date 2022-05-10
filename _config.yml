@@ -215,7 +215,7 @@ survey_url: https://www.surveymonkey.co.uk/r/XFJZGVL
 
 goals_page:
     title: UK data for the Sustainable Development Goals
-    description: Click on each goal for UK Sustainable Development Goal global indicator data.
+    description: goal.description
 
 reporting_status:
     disaggregation_tabs: true

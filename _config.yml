@@ -24,6 +24,23 @@ bootstrap_5: true
 # Controlling the Chart.js 3 settings.
 chartjs_3: true
 
+breadcrumbs:
+  post:
+    - label: general.home
+      path: /
+    - label: menu.updates
+      path: updates/
+  goal:
+    - label: general.home
+      path: /
+    - label: general.goals
+      path: goals/
+  indicator:
+    - label: general.home
+      path: /
+    - label: general.goals
+      path: goals/
+
 ignored_disaggregations:
   - Age (default)
   - Activity (default)

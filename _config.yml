@@ -9,7 +9,7 @@ hotjar: false
 
 # Site settings
 title: U.K. Indicators For The Sustainable Development Goals
-url: "https://onsdigital.github.io/sdg-indicators/"
+url: ""
 environment: staging
 
 # Pages

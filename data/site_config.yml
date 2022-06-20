@@ -289,7 +289,7 @@ search_index_extra_fields:
 site_config_form:
   enabled: true
   dropdowns: []
-  repository_link: '/tree/feature-2.0.0-beta1/_data'
+  repository_link: '/tree/2.0.0-beta1/_data'
   translation_link: ''
 time_series_attributes:
   - field: COMMENT_TS

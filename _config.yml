@@ -269,3 +269,8 @@ cookie_consent_form:
   enabled: true
 
 hotjar: false
+
+site_config_form:
+  enabled: true
+
+

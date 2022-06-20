@@ -279,8 +279,8 @@ reporting_status:
     - value: notstarted
       label: status.exploring_data_sources
       hide_on_goal_pages: false
-repository_url_data: ''
-repository_url_site: ''
+repository_url_data: 'https://github.com/ONSdigital/sdg-data'
+repository_url_site: 'https://github.com/ONSdigital/sdg-indicators'
 search_index_boost: []
 search_index_extra_fields:
   - indicator_available
@@ -289,7 +289,7 @@ search_index_extra_fields:
 site_config_form:
   enabled: true
   dropdowns: []
-  repository_link: ''
+  repository_link: '/tree/develop/_data'
   translation_link: ''
 time_series_attributes:
   - field: COMMENT_TS

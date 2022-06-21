@@ -40,3 +40,6 @@ exclude:
   - README.md
   - LICENSE
 
+country:
+  name: UK
+  adjective: UK

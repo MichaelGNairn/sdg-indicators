@@ -242,7 +242,6 @@ menu:
     translation_key: menu.updates
     dropdown: []
 metadata_edit_url: ''
-metadata_tabs: []
 news:
   category_links: false
 progress_status:

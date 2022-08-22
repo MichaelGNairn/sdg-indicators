@@ -307,6 +307,15 @@ metadata_tabs:
   - scope: global
     title: indicator.global_metadata
     description: indicator.global_metadata_blurb
-
-
-
+  - scope: sources_alt
+    title: Sources
+    description: My blurb about the sources tab
+    placeholder: No sources are available at this time
+  - scope: related_indicators
+    title: Related indicators
+    description: My blurb about the related indicators tab
+    placeholder: There are no other indicators related to this one
+  - scope: publications
+    title: Publications
+    description: My blurb about the publications tab
+    placeholder: There are no publications available for this indicator

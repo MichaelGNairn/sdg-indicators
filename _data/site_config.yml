@@ -316,6 +316,6 @@ metadata_tabs:
     description: My blurb about the related indicators tab
     placeholder: There are no other indicators related to this one
   - scope: publications
-    title: Publications
+    title: Related Publications
     description: My blurb about the publications tab
     placeholder: There are no publications available for this indicator

@@ -207,19 +207,19 @@ map_options:
   styleNormal:
     weight: 1
     opacity: 1
-    fillOpacity: 0.7
+    fillOpacity: 1
     color: '#888888'
     dashArray: ''
   styleHighlighted:
     weight: 1
     opacity: 1
-    fillOpacity: 0.7
+    fillOpacity: 1
     color: '#111111'
     dashArray: ''
   styleStatic:
     weight: 2
     opacity: 1
-    fillOpacity: 0
+    fillOpacity: 1
     color: '#172d44'
     dashArray: '5,5'
 menu:

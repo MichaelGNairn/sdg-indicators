@@ -312,7 +312,7 @@ metadata_tabs:
     description: My blurb about the sources tab
     placeholder: No sources are available at this time
   - scope: related_indicators
-    title: Related indicators
+    title: Related Indicators
     description: My blurb about the related indicators tab
     placeholder: There are no other indicators related to this one
   - scope: publications

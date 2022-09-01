@@ -207,7 +207,7 @@ map_options:
   styleNormal:
     weight: 1
     opacity: 1
-    fillOpacity: 0.7
+    fillOpacity: 0.4
     color: '#888888'
     dashArray: ''
   styleHighlighted:

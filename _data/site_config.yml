@@ -213,7 +213,7 @@ map_options:
   styleHighlighted:
     weight: 1
     opacity: 1
-    fillOpacity: 0.7
+    fillOpacity: 0.4
     color: '#111111'
     dashArray: ''
   styleStatic:

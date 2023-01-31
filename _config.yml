@@ -32,7 +32,7 @@ plugins:
   
 map_options:
   # Whether the map should provide a button and form for changing the displayed disaggregation:
-  disaggregation_controls: false
+  disaggregation_controls: true
  
 # Exclude some files/folders.
 exclude:

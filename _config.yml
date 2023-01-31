@@ -29,7 +29,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
   - jekyll-toc
-
+  
+map_options:
+  # Whether the map should provide a button and form for changing the displayed disaggregation:
+  disaggregation_controls: false
+ 
 # Exclude some files/folders.
 exclude:
   - vendor

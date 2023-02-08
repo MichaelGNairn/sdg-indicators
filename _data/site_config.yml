@@ -423,6 +423,7 @@ map_layers:
     min_zoom: 9
     max_zoom: 12
     staticBorders: true
+    
 map_options:
   disaggregation_controls: true
   minZoom: 4
